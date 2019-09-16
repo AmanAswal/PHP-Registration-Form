@@ -39,4 +39,4 @@ Form is using MySQL Prepared Statements and password encryption using SHA-256.
 
 
 ## Use
-Feel free to modify the template according your needs and push the code if you make any improve
+Feel free to modify the template according your needs and push the code if you make any improv
